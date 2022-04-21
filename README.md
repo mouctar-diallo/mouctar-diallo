@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-<h1 align="center">
-  <img alt="banner" src="assets/dev.png" />
+<h2 align="center">
+  <img alt="banner" src="assets/Developer.gif" />
 
-  < mouc-dev <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
+  < mouc-dev <img src="assets/Earth.gif" width="25px">/>! <img src="assets/Hi.gif" width="30px">
 </h2>
 
 ### Languages & Tools 🛠
@@ -65,9 +64,16 @@
 </a>
 
 <hr>
+  ### if you are devs and want to collaborate with me contact me 🤝 .
+  
+ <h2 align="center">
+  <img alt="banner" src="assets/team.gif" />
+</h2>
+  
+<hr>
 
 
-### Let's connect ? 🤝
+### Let's connect ? 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mamadou-mouctar-diallo-595724190/">
