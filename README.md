@@ -1,7 +1,7 @@
 <h2 align="center">
   <img alt="banner" src="assets/Developer.gif" />
   
-  𝐇𝐞𝐥𝐥𝐨, <my name is Mouctar Diallo i'm FullStack developer <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
+  𝐇𝐞𝐥𝐥𝐨, < FullStack developer <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
 </h2>
 
 ### Languages & Tools 🛠
