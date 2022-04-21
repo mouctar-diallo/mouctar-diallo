@@ -74,8 +74,6 @@
   <img alt="banner" src="assets/team.gif" />
 </h2>
   
-<hr>
-
 
 ### Let's connect ? 
 
