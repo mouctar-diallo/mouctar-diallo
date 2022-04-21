@@ -65,7 +65,7 @@
 
 <hr>
 
-### if you are devs and want to collaborate with me contact me 🤝
+### if you are a developer and you want to collaborate with me contact me 🤝
   
  <h2 align="center">
   <img alt="banner" src="assets/team.gif" />
