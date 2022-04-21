@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="banner" src="assets/Developer.gif" />
   
-  𝐇𝐞𝐥𝐥𝐨, <i'm FullStack developer <img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
+  𝐇𝐞𝐥𝐥𝐨, <i'm FullStack developer <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
 </h1>
 
 ### Languages & Tools 🛠
