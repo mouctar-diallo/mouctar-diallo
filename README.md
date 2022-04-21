@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 <h1 align="center">
   <img alt="banner" src="assets/dev.png" />
-  
-  𝐇𝐞𝐥𝐥𝐨, <i'm FullStack developer <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
-</h1>
+
+  < mouc-dev <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
+</h2>
 
 ### Languages & Tools 🛠
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
