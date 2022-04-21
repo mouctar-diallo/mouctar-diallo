@@ -65,7 +65,10 @@
 
 <hr>
 
-### if you are a developer and you want to collaborate with me contact me 🤝
+### if you are a developer and you want to collaborate with me contact me 🤝 :point_right:
+<a href="https://www.linkedin.com/in/mamadou-mouctar-diallo-595724190/">
+    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn&logoColor=blue"/>
+ </a>
   
  <h2 align="center">
   <img alt="banner" src="assets/team.gif" />
