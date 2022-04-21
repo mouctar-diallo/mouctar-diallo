@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="banner" src="assets/Developer.gif" />
+  <img alt="banner" src="assets/dev.png" />
   
   𝐇𝐞𝐥𝐥𝐨, <i'm FullStack developer <img src="assets/Earth.gif" width="24px">/>! <img src="assets/Hi.gif" width="30px">
 </h1>
